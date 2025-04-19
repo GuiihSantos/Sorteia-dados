@@ -1,0 +1,77 @@
+* {
+    background-color: #032152;
+    font-family: "Indie Flower", cursive;
+    color: #fff;
+}
+
+.comeco_jogo {
+    text-align: center;
+}
+
+.buttom {
+    text-align: center;
+}
+
+.custom-button{
+    background-color: #232931;
+    font-size: 20px;
+    width: 35%;
+    height: 35%;
+}
+
+.hidden {
+    display: none;
+}
+
+.mostraConteudo {
+    display: block;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    display: inline-block;
+    text-align: center;
+}
+
+.titulo_container, .titulo_comeco {
+    margin: 30px;
+    font-family: 'lobster', cursive;
+    text-shadow: 4px 0 #232931;
+    font-size:  5rem;
+    color: #4ECCA3;
+}
+
+.button {
+    margin-top: 25px;   
+    margin-bottom: 15px;
+}
+
+.sortear, .encerrajogo {
+    width: 25%;
+    height: 40% ;
+    background-color: #232931;
+}
+
+h2 {
+    font-size: 2rem;
+    color: #4ECCA3;
+}
+
+img {
+    width: 80%;
+}
+
+footer {
+    margin-top: 5%;
+    text-align: center;
+    color: #EEE;
+}
+
+@media (width <= 771px) {
+
+}
