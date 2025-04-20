@@ -1,4 +1,3 @@
-![Logo do projeto](https://i.imgur.com/kniMQHu.png)
 
 # JOGO DE DADOS
 
@@ -17,12 +16,15 @@ Siga as etapas abaixo para configurar o ambiente de desenvolvimento:
 Etapas para instalar:
 
 ```
-Codigo, exemplos
+git clone https://github.com/GuiihSantos/Sorteia-dados.git
 ```
 Passo 2:
 ```
-Codigo, exemplos
+cd Sorteia-dados
 ```
+Passo 3:  
+Abra o arquivo index.html no seu navegador:  
+Dê um duplo clique no arquivo index.html ou arraste-o para a janela do seu navegador.
 
 ## 📦 Tecnologias usadas:
 
