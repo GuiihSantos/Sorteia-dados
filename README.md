@@ -1,4 +1,8 @@
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/af48e712-ff94-4e38-8988-556e021721a1">
+</div>
+
 # JOGO DE DADOS
 
 Um jogo simples e divertido onde dois jogadores competem para ver quem consegue rolar o número mais alto em um dado.
