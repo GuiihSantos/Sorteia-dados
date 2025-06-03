@@ -1,17 +1,10 @@
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/af48e712-ff94-4e38-8988-556e021721a1">
-</div>
-
 # JOGO DE DADOS
 
 Um jogo simples e divertido onde dois jogadores competem para ver quem consegue rolar o número mais alto em um dado.
 
-### ⚙️ Pré-requisitos
-
-Para instalar e executar o projeto, você precisará ter o seguinte:    
-**1. Navegador Moderno:** Certifique-se de que você está usando um navegador web atualizado que suporte JavaScript.   
-**2. Conexão com a Internet:** Para carregar imagens e outros recursos do jogo.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/af48e712-ff94-4e38-8988-556e021721a1" width="100%">
+</div>
 
 ### 🔨 Guia de instalação
 
@@ -26,6 +19,13 @@ Passo 2:
 ```
 cd Sorteia-dados
 ```
+
+### ⚙️ Pré-requisitos
+
+Para instalar e executar o projeto, você precisará ter o seguinte:    
+**1. Navegador Moderno:** Certifique-se de que você está usando um navegador web atualizado que suporte JavaScript.   
+**2. Conexão com a Internet:** Para carregar imagens e outros recursos do jogo.
+
 Passo 3:  
 Abra o arquivo index.html no seu navegador:  
 Dê um duplo clique no arquivo index.html ou arraste-o para a janela do seu navegador.
