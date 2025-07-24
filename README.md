@@ -4,7 +4,9 @@ Um jogo simples e divertido onde dois jogadores competem para ver quem consegue 
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/af48e712-ff94-4e38-8988-556e021721a1" width="100%">
-</div>
+</div>  
+
+Site:  https://guiihsantos.github.io/Sorteia-dados/
 
 ### 🔨 Guia de instalação
 
